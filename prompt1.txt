@@ -1,0 +1,3 @@
+This is a photo of a {}.
+This is a photo of {}.
+This is a {}.

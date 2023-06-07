@@ -1,0 +1,260 @@
+
+---------- cifar10 ----------
+imagenet prompt
+model: RN50  param: 38316896  top1: 72.27  top5: 98.00 
+
+---------- cifar100 ----------
+imagenet prompt
+model: RN50  param: 38316896  top1: 40.98  top5: 72.41 
+
+---------- cifar10 ----------
+This is a photo of a [CLASS]. 
+This is a photo of [CLASS]. 
+This is a photo [CLASS]. 
+model: RN50  param: 38316896  top1: 70.72  top5: 98.35 
+
+---------- cifar100 ----------
+This is a photo of a [CLASS]. 
+This is a photo of [CLASS]. 
+This is a photo [CLASS]. 
+model: RN50  param: 38316896  top1: 35.04  top5: 67.48 
+
+---------- cifar10 ----------
+imagenet prompt
+model: RN101  param: 56259936  top1: 79.52  top5: 98.77 
+
+---------- cifar100 ----------
+imagenet prompt
+model: RN101  param: 56259936  top1: 48.03  top5: 78.42 
+
+---------- cifar10 ----------
+This is a photo of a [CLASS]. 
+This is a photo of [CLASS]. 
+This is a photo [CLASS]. 
+model: RN101  param: 56259936  top1: 80.16  top5: 98.86 
+
+---------- cifar100 ----------
+This is a photo of a [CLASS]. 
+This is a photo of [CLASS]. 
+This is a photo [CLASS]. 
+model: RN101  param: 56259936  top1: 38.81  top5: 72.36 
+
+---------- cifar10 ----------
+imagenet prompt
+model: RN50x4  param: 87137080  top1: 79.06  top5: 98.22 
+
+---------- cifar100 ----------
+imagenet prompt
+model: RN50x4  param: 87137080  top1: 47.49  top5: 76.85 
+
+---------- cifar10 ----------
+This is a photo of a [CLASS]. 
+This is a photo of [CLASS]. 
+This is a photo [CLASS]. 
+model: RN50x4  param: 87137080  top1: 77.96  top5: 97.28 
+
+---------- cifar100 ----------
+This is a photo of a [CLASS]. 
+This is a photo of [CLASS]. 
+This is a photo [CLASS]. 
+model: RN50x4  param: 87137080  top1: 27.02  top5: 64.85 
+
+---------- cifar10 ----------
+imagenet prompt
+model: RN50x16  param: 167328912  top1: 81.46  top5: 98.01 
+
+---------- cifar100 ----------
+imagenet prompt
+model: RN50x16  param: 167328912  top1: 52.18  top5: 79.13 
+
+---------- cifar10 ----------
+This is a photo of a [CLASS]. 
+This is a photo of [CLASS]. 
+This is a photo [CLASS]. 
+model: RN50x16  param: 167328912  top1: 81.50  top5: 97.97 
+
+---------- cifar100 ----------
+This is a photo of a [CLASS]. 
+This is a photo of [CLASS]. 
+This is a photo [CLASS]. 
+model: RN50x16  param: 167328912  top1: 45.58  top5: 72.91 
+
+---------- cifar10 ----------
+imagenet prompt
+model: RN50x64  param: 420380352  top1: 84.65  top5: 98.34 
+
+---------- cifar100 ----------
+imagenet prompt
+model: RN50x64  param: 420380352  top1: 60.01  top5: 84.54 
+
+---------- cifar10 ----------
+This is a photo of a [CLASS]. 
+This is a photo of [CLASS]. 
+This is a photo [CLASS]. 
+model: RN50x64  param: 420380352  top1: 80.59  top5: 97.87 
+
+---------- cifar100 ----------
+This is a photo of a [CLASS]. 
+This is a photo of [CLASS]. 
+This is a photo [CLASS]. 
+model: RN50x64  param: 420380352  top1: 51.41  top5: 77.80 
+
+---------- cifar10 ----------
+[CLASS] 
+model: RN50  param: 38316896  top1: 69.69  top5: 95.72 
+
+---------- cifar100 ----------
+[CLASS] 
+model: RN50  param: 38316896  top1: 28.00  top5: 56.59 
+
+---------- cifar10 ----------
+[CLASS] 
+model: RN101  param: 56259936  top1: 74.96  top5: 97.19 
+
+---------- cifar100 ----------
+[CLASS] 
+model: RN101  param: 56259936  top1: 35.03  top5: 60.61 
+
+---------- cifar10 ----------
+[CLASS] 
+model: RN50x4  param: 87137080  top1: 72.61  top5: 95.62 
+
+---------- cifar100 ----------
+[CLASS] 
+model: RN50x4  param: 87137080  top1: 35.22  top5: 61.74 
+
+---------- cifar10 ----------
+[CLASS] 
+model: RN50x16  param: 167328912  top1: 76.13  top5: 96.61 
+
+---------- cifar100 ----------
+[CLASS] 
+model: RN50x16  param: 167328912  top1: 40.29  top5: 67.37 
+
+---------- cifar10 ----------
+[CLASS] 
+model: RN50x64  param: 420380352  top1: 81.09  top5: 96.47 
+
+---------- cifar100 ----------
+[CLASS] 
+model: RN50x64  param: 420380352  top1: 45.45  top5: 72.68 
+
+---------- cifar10 ----------
+This is a photo of a [CLASS]. 
+model: RN50  param: 38316896  top1: 71.92  top5: 97.66 
+
+---------- cifar100 ----------
+This is a photo of a [CLASS]. 
+model: RN50  param: 38316896  top1: 41.01  top5: 73.23 
+
+---------- cifar10 ----------
+This is a photo of [CLASS]. 
+model: RN50  param: 38316896  top1: 70.97  top5: 98.27 
+
+---------- cifar100 ----------
+This is a photo of [CLASS]. 
+model: RN50  param: 38316896  top1: 30.02  top5: 58.30 
+
+---------- cifar10 ----------
+This is a [CLASS]. 
+model: RN50  param: 38316896  top1: 69.36  top5: 97.59 
+
+---------- cifar100 ----------
+This is a [CLASS]. 
+model: RN50  param: 38316896  top1: 40.07  top5: 71.36 
+
+---------- cifar10 ----------
+This is a photo of a [CLASS]. 
+model: RN101  param: 56259936  top1: 78.37  top5: 98.29 
+
+---------- cifar100 ----------
+This is a photo of a [CLASS]. 
+model: RN101  param: 56259936  top1: 46.70  top5: 77.42 
+
+---------- cifar10 ----------
+This is a photo of [CLASS]. 
+model: RN101  param: 56259936  top1: 79.79  top5: 98.91 
+
+---------- cifar100 ----------
+This is a photo of [CLASS]. 
+model: RN101  param: 56259936  top1: 41.85  top5: 70.34 
+
+---------- cifar10 ----------
+This is a [CLASS]. 
+model: RN101  param: 56259936  top1: 77.53  top5: 98.41 
+
+---------- cifar100 ----------
+This is a [CLASS]. 
+model: RN101  param: 56259936  top1: 46.16  top5: 76.50 
+
+---------- cifar10 ----------
+This is a photo of a [CLASS]. 
+model: RN50x4  param: 87137080  top1: 78.07  top5: 97.20 
+
+---------- cifar100 ----------
+This is a photo of a [CLASS]. 
+model: RN50x4  param: 87137080  top1: 41.94  top5: 71.51 
+
+---------- cifar10 ----------
+This is a photo of [CLASS]. 
+model: RN50x4  param: 87137080  top1: 78.63  top5: 97.93 
+
+---------- cifar100 ----------
+This is a photo of [CLASS]. 
+model: RN50x4  param: 87137080  top1: 31.93  top5: 57.01 
+
+---------- cifar10 ----------
+This is a [CLASS]. 
+model: RN50x4  param: 87137080  top1: 76.17  top5: 97.51 
+
+---------- cifar100 ----------
+This is a [CLASS]. 
+model: RN50x4  param: 87137080  top1: 45.08  top5: 74.19 
+
+---------- cifar10 ----------
+This is a photo of a [CLASS]. 
+model: RN50x16  param: 167328912  top1: 80.98  top5: 98.18 
+
+---------- cifar100 ----------
+This is a photo of a [CLASS]. 
+model: RN50x16  param: 167328912  top1: 47.65  top5: 75.71 
+
+---------- cifar10 ----------
+This is a photo of [CLASS]. 
+model: RN50x16  param: 167328912  top1: 80.31  top5: 97.89 
+
+---------- cifar100 ----------
+This is a photo of [CLASS]. 
+model: RN50x16  param: 167328912  top1: 42.81  top5: 69.35 
+
+---------- cifar10 ----------
+This is a [CLASS]. 
+model: RN50x16  param: 167328912  top1: 79.70  top5: 97.33 
+
+---------- cifar100 ----------
+This is a [CLASS]. 
+model: RN50x16  param: 167328912  top1: 44.44  top5: 71.73 
+
+---------- cifar10 ----------
+This is a photo of a [CLASS]. 
+model: RN50x64  param: 420380352  top1: 81.20  top5: 96.50 
+
+---------- cifar100 ----------
+This is a photo of a [CLASS]. 
+model: RN50x64  param: 420380352  top1: 53.19  top5: 79.50 
+
+---------- cifar10 ----------
+This is a photo of [CLASS]. 
+model: RN50x64  param: 420380352  top1: 79.99  top5: 98.09 
+
+---------- cifar100 ----------
+This is a photo of [CLASS]. 
+model: RN50x64  param: 420380352  top1: 50.58  top5: 76.06 
+
+---------- cifar10 ----------
+This is a [CLASS]. 
+model: RN50x64  param: 420380352  top1: 79.40  top5: 96.13 
+
+---------- cifar100 ----------
+This is a [CLASS]. 
+model: RN50x64  param: 420380352  top1: 53.29  top5: 78.82 
